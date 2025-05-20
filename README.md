@@ -44,9 +44,3 @@ Certifique-se de ter o seguinte instalado:
 * **Java Development Kit (JDK) 23 ou superior**
 * **Apache Maven 3.x**
 * Uma IDE Java (como IntelliJ IDEA, Eclipse ou VS Code com extensões Java)
-
-### ⬇️ Clonando o Repositório
-
-```bash
-git clone [https://www.google.com/search?q=https://github.com/SEU_USUARIO/ValidadorCNPJ.git](https://www.google.com/search?q=https://github.com/SEU_USUARIO/ValidadorCNPJ.git)
-cd ValidadorCNPJ
